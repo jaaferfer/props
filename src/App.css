@@ -1,0 +1,22 @@
+.content {
+  color: whitesmoke;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  margin-left: 40px;
+  padding-top: 5%;
+}
+.p {
+align-items: flex-start;}
+html {
+  height: 100%;
+background-color: coral;
+  overflow: hidden;
+}
+
+@keyframes animStar {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-2000px);
+  }
+}
